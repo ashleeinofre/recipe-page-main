@@ -12,9 +12,6 @@ body{
  font-family: Outfit;
  color: hsl(30, 10%, 34%);
 }
-body{
-    margin:auto;
-}
 .container {
     background-color: white;
     width: 100%;
